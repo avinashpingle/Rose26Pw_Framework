@@ -21,5 +21,5 @@ test('a test case with framework', async ({ page, testFixture }) => {
 })
 
 test('second test case', async ({ page }) => {
-    await page.goto('https://www.myntra.com')
+    await page.goto('https://www.skillio.com')
 })
